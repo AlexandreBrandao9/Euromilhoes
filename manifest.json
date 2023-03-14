@@ -5,7 +5,7 @@
   "background_color": "#fff",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "/Euromilhoes",
+  "scope": "https://alexandrebrandao9.github.io/Euromilhoes/",
   "start_url": "https://alexandrebrandao9.github.io/Euromilhoes/",
   "icons": [
     {
