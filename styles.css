@@ -1,0 +1,54 @@
+body {
+    background-color: #f1f1f1;
+    margin: 0;
+    padding: 0;
+    font-family: Poppins;
+}
+
+
+
+.main-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+
+.app-title {
+    margin-top: 30px;
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 26px;
+}
+
+
+
+
+.generate-btn {
+    margin-top: 10px;
+    background-color: rgb(181, 181, 255);
+    width: 100px;
+    height: 30px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-family: Poppins;
+    font-weight: 500;
+    transition: 0.3s all ease-in-out;
+}
+
+
+
+
+.generate-btn:hover {
+    opacity: 70%;
+}
+
+
+
+
+strong {
+    font-weight: 600;
+}
+
