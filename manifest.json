@@ -1,7 +1,7 @@
 {
     "name": "Euromilhões",
     "short_name": "EuroM",
-    "start_url": "/",
+    "start_url": "https://alexandrebrandao9.github.io/Euromilhoes/",
     "background_color": "#ffffff",
     "theme_color": "#3498db",
     "display": "standalone",
